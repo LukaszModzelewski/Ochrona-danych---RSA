@@ -1,0 +1,9 @@
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\bin\Debug\ChatClient.exe.config
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\bin\Debug\ChatClient.exe
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\bin\Debug\ChatClient.pdb
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\obj\Debug\ChatClient.Form1.resources
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\obj\Debug\ChatClient.exe
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatClient\obj\Debug\ChatClient.pdb

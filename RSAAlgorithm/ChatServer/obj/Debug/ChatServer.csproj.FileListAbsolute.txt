@@ -1,0 +1,6 @@
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatServer\bin\Debug\ChatServer.exe.config
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatServer\bin\Debug\ChatServer.exe
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatServer\bin\Debug\ChatServer.pdb
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatServer\obj\Debug\ChatServer.exe
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatServer\obj\Debug\ChatServer.pdb
+E:\Projekty\visual studio 2013\C#\RSAAlgorithm\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
